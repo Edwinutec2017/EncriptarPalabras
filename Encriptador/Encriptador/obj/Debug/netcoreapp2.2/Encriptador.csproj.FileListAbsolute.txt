@@ -1,0 +1,11 @@
+C:\Users\alex\source\repos\Encriptador\Encriptador\bin\Debug\netcoreapp2.2\Encriptador.deps.json
+C:\Users\alex\source\repos\Encriptador\Encriptador\bin\Debug\netcoreapp2.2\Encriptador.runtimeconfig.json
+C:\Users\alex\source\repos\Encriptador\Encriptador\bin\Debug\netcoreapp2.2\Encriptador.runtimeconfig.dev.json
+C:\Users\alex\source\repos\Encriptador\Encriptador\bin\Debug\netcoreapp2.2\Encriptador.dll
+C:\Users\alex\source\repos\Encriptador\Encriptador\bin\Debug\netcoreapp2.2\Encriptador.pdb
+C:\Users\alex\source\repos\Encriptador\Encriptador\obj\Debug\netcoreapp2.2\Encriptador.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\Encriptador\Encriptador\obj\Debug\netcoreapp2.2\Encriptador.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\Encriptador\Encriptador\obj\Debug\netcoreapp2.2\Encriptador.AssemblyInfoInputs.cache
+C:\Users\alex\source\repos\Encriptador\Encriptador\obj\Debug\netcoreapp2.2\Encriptador.AssemblyInfo.cs
+C:\Users\alex\source\repos\Encriptador\Encriptador\obj\Debug\netcoreapp2.2\Encriptador.dll
+C:\Users\alex\source\repos\Encriptador\Encriptador\obj\Debug\netcoreapp2.2\Encriptador.pdb
